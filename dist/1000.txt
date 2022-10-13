@@ -1,0 +1,33 @@
+according:według/stosowanaie/zależnie
+agreement:umowa/porozumienie
+almost:prawie/niemal
+attorney:prawnik/adwokat
+certainly:z pewnością
+charge:opłata
+concern:dotyczyć/troszczyć się/obawa
+direction:kierunek
+entire:cały/kompletny
+establish:stworzyć/ustanowić
+former:dawny/były
+lead:ołów/prowadzić
+likely:prawdopodobnie
+mention:wspomnieć/nadmienić
+opportunity:okazja
+particular:konkretny/szczególny
+period:kropka/okres
+poor:słaby/ubogi/biedny
+poverty:bieda/ubustwo
+preassure:presja/nacisk
+provide:dostarczać/zapewniać
+rate:wskaźnik/ocena/stopa
+recent:niedawny,ostatni,świeży
+remain:pozostać/zostać
+seat:siedzenie/siedziba
+sign:podpisać/podpisywać/znak
+significant:ważne/istotne/znaczące
+state:wyznaczyć/stan/państwo
+statement:oświadczenie/komunikat
+thus:zatem/taak więc
+violence:przemoc
+within:w ciągu/w obrębie
+althought:chociaż
